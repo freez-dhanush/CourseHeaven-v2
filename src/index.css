@@ -3,7 +3,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 @layer base {
     h1,
     h2,
@@ -12,28 +11,28 @@
     h5 {
       @apply font-poppins;
     }
-  
+
     body {
       @apply font-fredoka;
+      background-color: #111827; /* Or your preferred dark color, e.g., bg-gray-900 */
     }
-  
+
     p,
     span {
       @apply font-roboto;
     }
   }
-  
+
   @layer utilities {
     .font-poppins {
       font-family: "Poppins", sans-serif;
     }
-  
+
     .font-fredoka {
       font-family: "Fredoka", sans-serif;
     }
-  
+
     .font-roboto {
       font-family: "Roboto", sans-serif;
     }
   }
-  
