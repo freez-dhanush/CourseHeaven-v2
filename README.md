@@ -1,4 +1,4 @@
-# CourseHaven - Online Course Platform
+# CourseHeaven - Online Course Platform
 
 ![Course Heaven Logo](https://github.com/user-attachments/assets/baed42b3-34ad-4980-8d08-b29ca584ae9f)
 
