@@ -37,6 +37,7 @@ const DB_URI = process.env.MONGO_URI;
 // This will tell us if the .env file is being loaded correctly.
 console.log("--- Environment Variables Check ---");
 console.log("PORT:", process.env.PORT);
+
 console.log("FRONTEND_URL:", process.env.FRONTEND_URL);
 console.log("MONGO_URI:", DB_URI);
 console.log("---------------------------------");
