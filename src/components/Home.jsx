@@ -102,11 +102,11 @@ function Home() {
           <div className="flex items-center space-x-2">
             <img
               src="/logo.webp" // <-- FIX 1: Changed src
-              alt="CourseHaven Logo"
+              alt="CourseHeaven Logo"
               className="w-7 h-7 md:w-10 md:h-10 rounded-full"
             />
             <h1 className="md:text-2xl text-orange-500 font-bold">
-              CourseHaven
+              CourseHeaven
             </h1>
           </div>
           <div className="space-x-4">
@@ -140,7 +140,7 @@ function Home() {
         <main>
           <section className="text-center py-20">
             <h1 className="text-4xl font-semibold text-orange-500">
-              CourseHaven
+              CourseHeaven
             </h1>
             <br />
             <p className="text-gray-400">
@@ -216,7 +216,7 @@ function Home() {
                   className="w-10 h-10 rounded-full"
                 />
                 <h1 className="text-2xl text-orange-500 font-bold">
-                  CourseHaven
+                  CourseHeaven
                 </h1>
               </div>
               <div className="mt-3">
@@ -266,7 +266,7 @@ function Home() {
             </div>
           </div>
           <div className="text-center text-gray-500 mt-12">
-            <p>copyrights &#169; 2024 CourseHaven</p>
+            <p>copyrights &#169; 2024 CourseHeaven</p>
           </div>
         </footer>
       </div>
