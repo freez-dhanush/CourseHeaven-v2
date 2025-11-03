@@ -3,7 +3,10 @@
 @tailwind components;
 @tailwind utilities;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 48cfb65ee43e5b5aeff3918de7ee8f487ea14d35
 @layer base {
     h1,
     h2,
@@ -12,21 +15,35 @@
     h5 {
       @apply font-poppins;
     }
+<<<<<<< HEAD
   
     body {
       @apply font-fredoka;
     }
   
+=======
+
+    body {
+      @apply font-fredoka;
+      background-color: #111827; /* Or your preferred dark color, e.g., bg-gray-900 */
+    }
+
+>>>>>>> 48cfb65ee43e5b5aeff3918de7ee8f487ea14d35
     p,
     span {
       @apply font-roboto;
     }
   }
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 48cfb65ee43e5b5aeff3918de7ee8f487ea14d35
   @layer utilities {
     .font-poppins {
       font-family: "Poppins", sans-serif;
     }
+<<<<<<< HEAD
   
     .font-fredoka {
       font-family: "Fredoka", sans-serif;
@@ -37,3 +54,14 @@
     }
   }
   
+=======
+
+    .font-fredoka {
+      font-family: "Fredoka", sans-serif;
+    }
+
+    .font-roboto {
+      font-family: "Roboto", sans-serif;
+    }
+  }
+>>>>>>> 48cfb65ee43e5b5aeff3918de7ee8f487ea14d35
