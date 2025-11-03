@@ -1,6 +1,6 @@
-# CourseHeaven - Online Course Platform
+# CourseHaven - Online Course Platform
 
-![Course Heaven Logo](https://github.com/user-attachments/assets/baed42b3-34ad-4980-8d08-b29ca584ae9f)
+![Course Haven Logo](https://github.com/user-attachments/assets/baed42b3-34ad-4980-8d08-b29ca584ae9f)
 
 
 CourseHaven is a full-stack web application built for selling and managing online courses. It features separate interfaces for users and administrators, secure payment processing with Stripe, and a modern, responsive design.
